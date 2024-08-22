@@ -45,7 +45,7 @@ This Discord selfbot copies messages from one channel to another or from one ser
    - Open your text editor and create a new file. Name it something like `discord_selfbot.py`.
 
 2. **Copy the Script**:
-   - Copy the script provided earlier into this file.
+   - Copy the script provided in here as "message copier.py into this file.
 
 ### Step 3: Configure the Script ⚙️
 
